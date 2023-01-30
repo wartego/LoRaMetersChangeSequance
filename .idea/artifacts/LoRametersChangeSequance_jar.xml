@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LoRametersChangeSequance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LoRametersChangeSequance_jar</output-path>
+    <root id="archive" name="LoRametersChangeSequance.jar">
+      <element id="module-output" name="LoRametersChangeSequance" />
+    </root>
+  </artifact>
+</component>
