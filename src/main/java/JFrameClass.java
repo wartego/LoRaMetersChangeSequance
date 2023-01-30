@@ -52,7 +52,7 @@ public class JFrameClass extends javax.swing.JFrame implements ActionListener, K
         add(textDisplay);
 
         pictureLabel = new JLabel("Brunata");
-        pictureLabel.setIcon(new ImageIcon("C:\\Users\\tro\\IdeaProjects\\LoRametersChangeSequance\\d_56e5f2a7e27de.jpg"));
+        pictureLabel.setIcon(new ImageIcon("C:\\Users\\user\\IdeaProjects\\LoRametersChangeSequance\\d_56e5f2a7e27de.jpg"));
         pictureLabel.setBounds(10,10,127,86);
         add(pictureLabel);
 
